@@ -1,1 +1,1 @@
-# Contrastive-Multiple-Correspondence-Analysis-cMCA-Applying-the-Contrastive-Learning-Method-to-Ide
+# Contrastive-Multiple-Correspondence-Analysis-cMCA
